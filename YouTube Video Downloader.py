@@ -102,7 +102,7 @@ downloadBtn = Button(root,text="Download",width=10,bg="red",fg="white",command=D
 downloadBtn.grid()
 
 #Developer_Label
-developerLabel  = Label(root,text="Jaysinh Dabhi",font=("jost",15))
+developerLabel  = Label(root,text="Your Name Here",font=("jost",15))
 developerLabel.grid()
 
 root.mainloop()
